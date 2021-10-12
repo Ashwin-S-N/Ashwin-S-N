@@ -14,5 +14,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwin-s-n&show_icons=true&locale=en" alt="ashwin-s-n" /></p>
 
