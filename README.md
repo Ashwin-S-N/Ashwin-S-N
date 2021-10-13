@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-s-n" alt="ashwin-s-n" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, Javascript , React JS, Google cloud platform , and Machine learning**
+***I'm a tech enthusiast, who always wants to explore new areas of study and expand my knowledge base***
 
 
 
