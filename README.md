@@ -1,4 +1,5 @@
-<h1 align="center">Hey there! I'm Ashwin Santhosh Nair 😄</h1>
+# Hey there I'm Ashwin Santhosh Nair! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <h3 align="center">A student from Vellore Institute of Technology 👨‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-s-n&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-s-n" /> </p>
