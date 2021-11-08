@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-s-n&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-s-n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-s-n" alt="ashwin-s-n" /></a> </p>
+
 
 ***I'm a tech enthusiast, who always wants to explore new areas of study and expand my knowledge base***
 
