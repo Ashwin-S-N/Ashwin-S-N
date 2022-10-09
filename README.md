@@ -3,7 +3,7 @@
 
 <h3 align="center">A student from Vellore Institute of Technology 👨‍🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-s-n&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-s-n" /> </p>
+
 
 
 
