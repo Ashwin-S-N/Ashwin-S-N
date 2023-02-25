@@ -1,5 +1,5 @@
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-# Hey there! I'm Ashwin Santhosh Nair!
+<!--  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> -->
+<h1> Hey there! I'm Ashwin Santhosh Nair! </h1>
 
 ## 💫 About Me:
 A tech enthusiast with the zeal and passion to learn anything new that fulfills needs of the present rapidly changing world. Currently a student of Vellore Institute of Technology. A keen learner and industrious person, striving for excellence. New challenges help me grow professionally as well as personally.
