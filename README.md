@@ -1,6 +1,6 @@
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <h1> Hey there! I'm Ashwin Santhosh Nair!</h1>
-# 💫 About Me:
+## 💫 About Me:
 A tech enthusiast with the zeal and passion to learn anything new that fulfills needs of the present rapidly changing world. Currently a student of Vellore Institute of Technology. A keen learner and industrious person, striving for excellence. New challenges help me grow professionally as well as personally.
 
 
@@ -14,7 +14,6 @@ A tech enthusiast with the zeal and passion to learn anything new that fulfills 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ashwin-S-N&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
